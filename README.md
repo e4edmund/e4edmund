@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @e4edmund
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning C+=
+- 🌱 I’m currently learning C++,python,javascript,html.......
 - 💞️ I’m looking to collaborate on anything really
 - 📫 How to reach me ...here
 - 😄 Pronouns: ...Him
